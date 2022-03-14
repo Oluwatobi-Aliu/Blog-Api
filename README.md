@@ -90,7 +90,7 @@ express, path, body-parser, JWT, mongoose, bcrypt, multer
 Database : MongoDB
 
 ## 5. Goals
-  Create a back-end API with Node.js
-  Use MongoDB as a No Sql Database
++ [x] Create a back-end API with Node.js
++ [x] Use MongoDB as a No Sql Database
 + Write Test using Mocha and Chai
 + Give a attaractive front-end look with React
