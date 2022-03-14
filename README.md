@@ -2,11 +2,11 @@
 The Blog Api is a back-end api for Simple Blog Web Application. This API consists of Login and Authentication endpoints in addition to back-end endpoints for Create, Update, View, Delete Posts, Users, Posts and a Category endpoint to organise  and sort blog posts by categories.
 
 # Table of Contents
-1. [Authors and Contributors](https://github.com/TobiFromLag/Blog-Api/edit/main/README.md#1-author)
-2. [How to check the api](https://github.com/TobiFromLag/Blog-Api/edit/main/README.md#2-how-to-check-the-app-)
-3. [How to run the api](https://github.com/TobiFromLag/Blog-Api/edit/main/README.md#3-how-to-run-the-api)
-4. [Resources Used](https://github.com/TobiFromLag/Blog-Api/edit/main/README.md#4-tools)
-5. [Goals](https://github.com/TobiFromLag/Blog-Api/edit/main/README.md#5-goals)
+1. [Authors and Contributors]()
+2. [How to check the api]()
+3. [How to run the api]()
+4. [Resources Used]()
+5. [Goals]()
 
 ## 1. Author
    I, Aliu Oluwatobi developed this Application.
