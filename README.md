@@ -2,21 +2,21 @@
 The Blog Api is a back-end api for Simple Blog Web Application. This API consists of Login and Authentication endpoints in addition to back-end endpoints for Create, Update, View, Delete Posts, Users, Posts and a Category endpoint to organise  and sort blog posts by categories.
 
 # Table of Contents
-1. [Authors and Contributors]()
-2. [How to check the api]()
-3. [How to run the api]()
-4. [Resources Used]()
-5. [Goals]()
+1. [Author](#1-author)
+2. [Check the API](#2-check-the-api)
+3. [Run the API](#3-run-the-api)
+4. [Resources Used](#4-resources-used)
+5. [Goals](#5-goals)
 
 ## 1. Author
    I, Aliu Oluwatobi developed this Application.
 
-## 2. How to check the app ?
+## 2. Check the API
    Follow the steps below to check back-end API :
 
    + Postman Collection Link : "not yet completed"
    + URL - "not yet developed" (Only Create User and Login, these two requests don't require authentication, all other requests require authentication.)
-## Request Routes:
+### Request Routes:
 
 **Create User**
 
@@ -77,8 +77,15 @@ The Blog Api is a back-end api for Simple Blog Web Application. This API consist
 + Type: DELETE
 + Endpoint: URL/api/users/:id (e.g: id -> 5969902e3989c2063b925d4a)
 
-## 3. How to run the api
-## 4. Tools
+## 3. Run the API
+1. Download the source code and navigate to the project's folder
+2. Enter the project's folder using your preferred IDE or terminal
+3. Run the following commands
+   ``` 
+   $ npm install
+   $ npm start
+   ```
+## 4. Resources Used
 
 Node.js is used as the scripting language for server side programming .
 
