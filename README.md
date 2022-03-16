@@ -15,7 +15,6 @@ The Blog Api is a back-end api for Simple Blog Web Application. This API consist
    Follow the steps below to check back-end API :
 
    + Postman Collection Link : "not yet completed"
-   + URL - "not yet developed" (Only Create User and Login, these two requests don't require authentication, all other requests require authentication.)
 ### Request Routes:
 
 **Create User**
@@ -100,4 +99,4 @@ Database : MongoDB
 + [x] Create a back-end API with Node.js
 + [x] Use MongoDB as a No Sql Database
 + Write Test using Mocha and Chai
-+ Give a attaractive front-end look with React
++ Give a attaractive front-end look
